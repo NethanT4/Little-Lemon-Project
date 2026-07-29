@@ -1,0 +1,10 @@
+
+p:hover {
+    background-color: lightgray;
+}
+
+
+p::first-line {
+    font-size: 1.3em;
+    font-weight: bold;
+}
